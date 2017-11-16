@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BD7CF53D-8B55-4412-BE30-71B05AC8C1E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeatherApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CEA7E095BEBCB64C46C2BE5CE6B5C4397ED1C136</key>
+		<string>https://github.com/SDRathod/WeatherInfo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WeatherApp/WeatherApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CEA7E095BEBCB64C46C2BE5CE6B5C4397ED1C136</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SDRathod/WeatherInfo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CEA7E095BEBCB64C46C2BE5CE6B5C4397ED1C136</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CEA7E095BEBCB64C46C2BE5CE6B5C4397ED1C136</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WeatherInfo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
