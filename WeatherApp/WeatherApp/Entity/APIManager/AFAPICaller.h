@@ -15,8 +15,8 @@ typedef void(^AFAPICallerFailure)();
 
 @interface AFAPICaller : NSObject
 
--(UIView *) addShowLoaderInView : (UIView *) viewObj : (BOOL) boolShow : (BOOL) enableInteraction;
--(void) hideRemoveLoaderFromView : (UIView *) removableView : (UIView *) mainView;
+//-(UIView *) addShowLoaderInView : (UIView *) viewObj : (BOOL) boolShow : (BOOL) enableInteraction;
+//-(void) hideRemoveLoaderFromView : (UIView *) removableView : (UIView *) mainView;
 
 //call web service with POST method
 -(void) callAPIUsingGET : (NSString *) filePath withParameters : (NSMutableDictionary *) params withEnabled : (BOOL) enableInteraction withLoader : (BOOL) showLoader inView : (UIView *) viewObj  success:(AFAPICallerSuccess)onSuccess failure:(AFAPICallerFailure)onFailure;
